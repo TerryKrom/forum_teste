@@ -7,14 +7,10 @@
     margin-bottom: 15px;
 }
 
-.topic-title, .recent-topic-title{
-    font-weight: 300;
-}
-
 .item-title{
-    font-weight: 300;
     margin-bottom: 0 !important;
 }
+
 
 .topic-info{
     display: flex;
@@ -24,12 +20,7 @@
     align-items: center;
 }
 
-.topic-runtime, .topic-author, .recent-topic-runtime, .recent-topic-author{
-    font-weight: 300;
-}
-
 .topic-author-name{
-    font-weight: 400;
     margin-right: 6px;
 }
 

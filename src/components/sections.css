@@ -5,7 +5,7 @@
 }
 
 .sections-title{
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .sections-title, .section-sub-title{
@@ -13,18 +13,18 @@
 }
 
 .section-sub-title{
-    font-weight: 700;
+    font-weight: 400;
     margin-top: 15px;
 }
 
 .section-sub-sub-title{
-    font-weight: 500;
+    font-weight: 400;
     margin-top: 5px;
     cursor: pointer;
 }
 
 .section-item{
-    font-weight: 300;
+    
     margin-bottom: 3px;
 }
 
@@ -71,6 +71,6 @@
 .retract-btn{
     font-size: 0.875rem;
     color: var(--secondary-font);
-    font-weight: 400;
+    
     cursor: pointer;
 }

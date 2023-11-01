@@ -2,10 +2,6 @@
     background-color: var(--main-red);
 }
 
-#header-title{
-    font-weight: 400;
-}
-
 #navbar-bottom{
     background-color: var(--secondary-bg);
 }
@@ -25,7 +21,7 @@
 .navbar-section-item{
     color: var(--secondary-font) !important;
     font-size: 15px;
-    font-weight: 400;
+    
     list-style: none;
 }
 
@@ -38,7 +34,7 @@
     display: block;
     width: 0;
     height: 2px;
-    background-color: #232342;
+    background-color: var(--secondary-font);
     transition: width .3s;
 }
 .nav-link:hover::after{
@@ -54,7 +50,7 @@
 
 #searchbar::placeholder{
     color: #718096;
-    font-weight: 400;
+    
     font-size: 14px;
 }
 

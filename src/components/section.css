@@ -9,6 +9,7 @@
 }
 
 .section-top-title{
+    font-size: 1.3rem;
     color: var(--font)
 }
 details{
@@ -34,7 +35,7 @@ summary::marker, li::marker{
 }
 
 .subsection-title{
-    font-weight: 300;
+    
     margin: 0;
     color: var(--font);
     text-decoration: none;
@@ -56,18 +57,18 @@ summary::marker, li::marker{
 }
 
 .section-title{
-    font-weight: 300;
+    
     margin: 0;
     font-size: 20px;
 }
 
 .item-title{
-    font-weight: 300;
+    
     margin-bottom: 0 !important;
 }
 
 .section-top-title{
-    font-weight: 300;
+    
 }
 
 .section-wrapper{
